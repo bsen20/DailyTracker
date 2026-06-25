@@ -8,10 +8,10 @@ Day-by-day breakdown of DevOps, Networking, Cloud, and System Design concepts fr
 
 | Day | Module | Topics |
 |-----|--------|--------|
-| **01** | [Networking & System Design](Day-01/1.Networking/README.md) | Physical Internet, IP Addressing, Subnets/CIDR, DNS, OSI/TCP-IP Model, TCP vs UDP, Internet Security, Data Centers/CDN/Edge, System Design Fundamentals, Architecture Types, Project Case Study |
-| | [System Design Deep Dive](Day-01/2.SystemDesign/) | *Coming soon* |
-| **02** | DevOps Tooling | *Upcoming* |
-| **03** | Cloud Architecture | *Upcoming* |
+| **01** | [Networking](Day-01/1.Networking/README.md) | Physical Internet, IP Addressing, Subnets/CIDR, DNS, OSI/TCP-IP Model, TCP vs UDP, Internet Security, Data Centers/CDN/Edge |
+| **02** | [System Design](Day-02/README.md) | Design Scalable Notifications System — 1B notifications/day, 100M DAU, multi-channel (push/email/SMS/in-app), priority queues, ScyllaDB, Kafka, WebSocket real-time delivery, multi-region |
+| **03** | DevOps Tooling | *Upcoming* |
+| **04** | Cloud Architecture | *Upcoming* |
 
 ---
 
